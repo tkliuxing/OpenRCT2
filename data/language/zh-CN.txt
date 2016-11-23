@@ -2396,14 +2396,14 @@ STR_2382    :Land
 STR_2383    :Water
 STR_2384    :{WINDOW_COLOUR_2}你的目标
 STR_2385    :{BLACK}None
-STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
-STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
+STR_2386    :{BLACK}在 {MONTHYEAR} 之前乐园内至少有 {COMMA16} 游客, 并且乐园评分不低于 600
+STR_2387    :{BLACK}在 {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR} 之前乐园价值不低于 {POP16}{POP16}{CURRENCY}
 STR_2388    :{BLACK}Have Fun!
 STR_2389    :{BLACK}Build the best {STRINGID} you can!
-STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
-STR_2391    :{BLACK}To have at least {COMMA16} guests in your park. You must not let the park rating drop below 700 at any time!
-STR_2392    :{BLACK}To achieve a monthly income from ride tickets of at least {POP16}{POP16}{CURRENCY}
-STR_2393    :{BLACK}To have 10 different types of roller coasters operating in your park, each with a minimum length of {LENGTH}, and an excitement rating of at least 7.00
+STR_2390    :{BLACK}在你的乐园中运营10种类型的过山车, 并且每一个的兴奋度不低于 6.00
+STR_2391    :{BLACK}乐园内至少有 {COMMA16} 游客，并且在任何时候你都不能让公园评分低于700 ！
+STR_2392    :{BLACK}每个月的门票收入至少 {POP16}{POP16}{CURRENCY}
+STR_2393    :{BLACK}在你的乐园中运营10种类型的过山车, 每一个的长度至少 {LENGTH}, 并且每一个的兴奋度不低于 7.00
 STR_2394    :{BLACK}To finish building all 5 of the partially built roller coasters in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
 STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
@@ -2767,9 +2767,9 @@ STR_2750    :Move all items to top
 STR_2751    :Move all items to bottom
 STR_2752    :Clear grass
 STR_2753    :修剪好的草地
-STR_2754    :Water plants
-STR_2755    :Fix vandalism
-STR_2756    :Remove litter
+STR_2754    :浇灌植物
+STR_2755    :修复路面设施破损
+STR_2756    :去除路面垃圾
 STR_2757    :<not used anymore>
 STR_2758    :<not used anymore>
 STR_2759    :Zero Clearance
@@ -2779,7 +2779,7 @@ STR_2762    :<not used anymore>
 STR_2763    :???
 STR_2764    :<not used anymore>
 STR_2765    :Large Tram
-STR_2766    :Win scenario
+STR_2766    :完成剧情目标
 STR_2767    :Freeze Climate
 STR_2768    :Unfreeze Climate
 STR_2769    :开放游乐园
@@ -2800,18 +2800,18 @@ STR_2780    :额外的查看窗口
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
-STR_2784    :Change keyboard shortcut
+STR_2784    :变更快捷键
 STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}{OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2786    :{SMALLFONT}{BLACK}Click on shortcut description to select new key
 STR_2787    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
 STR_2788    :{WINDOW_COLOUR_2}Congratulations !{NEWLINE}{BLACK}You achieved your objective with a company value of {CURRENCY} !
 STR_2789    :{WINDOW_COLOUR_2}You have failed your objective !
 STR_2790    :Enter name into scenario chart
-STR_2791    :Enter name
+STR_2791    :输入名字
 STR_2792    :Please enter your name for the scenario chart:
 STR_2793    :{SMALLFONT}(Completed by {STRINGID})
 STR_2794    :{WINDOW_COLOUR_2}Completed by: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} with a company value of: {BLACK}{CURRENCY}
-STR_2795    :Sort
+STR_2795    :排序
 STR_2796    :{SMALLFONT}{BLACK}Sort the ride list into order using the information type displayed
 STR_2797    :当鼠标位于屏幕边缘时滚动视图
 STR_2798    :{SMALLFONT}{BLACK}当鼠标位于屏幕边缘时滚动视图
@@ -2819,8 +2819,8 @@ STR_2799    :{SMALLFONT}{BLACK}查看或改变控制按键分配
 STR_2800    :{WINDOW_COLOUR_2}Total admissions: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
 STR_2802    :地图
-STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
-STR_2804    :{SMALLFONT}{BLACK}Show these staff members highlighted on map
+STR_2803    :{SMALLFONT}{BLACK}高亮显示游客
+STR_2804    :{SMALLFONT}{BLACK}高亮显示雇员
 STR_2805    :{SMALLFONT}{BLACK}显示游乐园地图
 STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organising them better
 STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organising them better
@@ -2865,10 +2865,10 @@ STR_2845    :{TOPAZ}你的游乐园获得了'拥有最大胆色彩搭配乐园�
 STR_2846    :{TOPAZ}你的游乐园获得了'拥有最令人迷失布局乐园奖'!
 STR_2847    :{TOPAZ}你的游乐园获得了'拥有最温和游乐设施乐园奖'!
 STR_2848    :{WINDOW_COLOUR_2}No recent awards
-STR_2849    :New scenario installed successfully
-STR_2850    :New track design installed successfully
-STR_2851    :Scenario already installed
-STR_2852    :Track design already installed
+STR_2849    :新的剧情副本安装完毕
+STR_2850    :新的轨道设计安装完毕
+STR_2851    :剧情副本已经安装过了
+STR_2852    :轨道设计已经安装过了
 STR_2853    :Forbidden by the local authority!
 STR_2854    :{RED}Guests can't get to the entrance of {STRINGID} !{NEWLINE}Construct a path to the entrance
 STR_2855    :{RED}{STRINGID} has no path leading from its exit !{NEWLINE}Construct a path from the ride exit
